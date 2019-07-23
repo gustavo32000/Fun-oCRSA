@@ -1,0 +1,11 @@
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRSA\bin\Debug\netcoreapp2.1\FunçãoCRSA.deps.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRSA\bin\Debug\netcoreapp2.1\FunçãoCRSA.runtimeconfig.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRSA\bin\Debug\netcoreapp2.1\FunçãoCRSA.runtimeconfig.dev.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRSA\bin\Debug\netcoreapp2.1\FunçãoCRSA.dll
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRSA\bin\Debug\netcoreapp2.1\FunçãoCRSA.pdb
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRSA\obj\Debug\netcoreapp2.1\FunçãoCRSA.csprojAssemblyReference.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRSA\obj\Debug\netcoreapp2.1\FunçãoCRSA.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRSA\obj\Debug\netcoreapp2.1\FunçãoCRSA.AssemblyInfoInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRSA\obj\Debug\netcoreapp2.1\FunçãoCRSA.AssemblyInfo.cs
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRSA\obj\Debug\netcoreapp2.1\FunçãoCRSA.dll
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoCRSA\obj\Debug\netcoreapp2.1\FunçãoCRSA.pdb
